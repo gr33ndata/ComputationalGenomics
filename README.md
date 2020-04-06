@@ -7,7 +7,13 @@ Personally, my backgroud is in Computer Science, with zero biological knowlege. 
 ## Project Structure
 
 I will create a notebook per chapter (or topic).
+
+- [Chapter 1 - Sequence Statistics](https://github.com/gr33ndata/ComputationalGenomics/blob/master/Chapter%201%20-%20Sequence%20Statistics%20.ipynb)
+- [Chapter 2 - Gene Finding](https://github.com/gr33ndata/ComputationalGenomics/blob/master/Chapter%202%20-%20Gene%20Finding.ipynb)
+
 I will use Markdown text as much as I can to explain what I am doing.
+
+
 
 ## About the Book
 The book is called Introduction to Computational Genomics by Nello Cristianini
