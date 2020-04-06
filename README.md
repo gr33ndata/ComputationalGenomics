@@ -9,8 +9,11 @@ Personally, my backgroud is in Computer Science, with zero biological knowlege. 
 I will create a notebook per chapter (or topic).
 
 - [Chapter 1 - Sequence Statistics](https://github.com/gr33ndata/ComputationalGenomics/blob/master/Chapter%201%20-%20Sequence%20Statistics%20.ipynb)
-  - Ex
+  - Read the genome data
+  - Analyze its characher frequency (aka its nucleotide)
 - [Chapter 2 - Gene Finding](https://github.com/gr33ndata/ComputationalGenomics/blob/master/Chapter%202%20-%20Gene%20Finding.ipynb)
+  - Find Open Reading Frames (ORFs)
+  - Evaluate how plausable an ORF is actually a gene 
 
 I will use Markdown text as much as I can to explain what I am doing.
 
