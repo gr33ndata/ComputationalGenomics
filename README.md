@@ -16,4 +16,4 @@ I will use Markdown text as much as I can to explain what I am doing.
 
 
 ## About the Book
-The book I am learning from now is called [Introduction to Computational Genomics by Nello Cristianini](https://amzn.to/2V4reIh)
+The book I am learning from at the moment is called [Introduction to Computational Genomics by Nello Cristianini](https://amzn.to/2V4reIh)
